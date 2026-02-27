@@ -33,3 +33,7 @@ Intrare: 2*3+4*(4-3)
 RPN: 23*443-*+
 iesire: 10
 ```
+
+P.S: M-am consultat cu diferite site-uri pentru a infrumuseta si sa fac fisier README.md mai lizibil
+https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783
+https://github.com/banesullivan/README
