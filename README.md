@@ -29,7 +29,7 @@ Evalueaza expresia RPN si returneaza rezultatul.
 ## Exemplu
 
 ```
-Input:  2*(4-1)
-RPN:    2 4 1 - *
-Output: 6
+Intrare: 2*3+4*(4-3)
+RPN: 23*443-*+
+iesire: 10
 ```
